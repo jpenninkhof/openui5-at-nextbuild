@@ -42,16 +42,6 @@ It eases your development with a client-side HTML5 rendering library including a
 
 
 
-# Custom controls
-Controls can be created using JS and OpenUI5 API
-
-Data binding support etc. out of the box
-
-[Example](http://output.jsbin.com/vukara/5)
-<!-- .slide: data-state="darker3" data-background="images/bg-customcontrols.jpg" -->
-
-
-
 # Blue horizon
 <img data-src="images/sample-bluehorizon.png" width="85%">
 <!-- .slide: data-state="darker7" data-background="images/bg-bluehorizon.jpg" -->
@@ -79,6 +69,17 @@ Data binding support etc. out of the box
 # Theming
 <img data-src="images/sample-theming.png">
 <!-- .slide: data-state="darker7" data-background="images/bg-theming.jpg" -->
+
+
+
+# Custom controls
+Controls can be created using JS and OpenUI5 API
+
+Data binding support etc. out of the box
+
+[Example](http://output.jsbin.com/vukara/5)
+<!-- .slide: data-state="darker3" data-background="images/bg-customcontrols.jpg" -->
+Note: <After the example:>If you build a custom control for a ghost, a custom control for a dot, a custom control for a maze and add some retro game logic, you'll get: <turn to next slide>
 
 
 
