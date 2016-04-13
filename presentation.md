@@ -31,7 +31,7 @@ It eases your development with a client-side HTML5 rendering library including a
 
 
 
-# Code Demo
+# Show me some code!
 <!-- .slide: data-state="darker7" data-background="images/bg-code.jpg" -->
 
 
