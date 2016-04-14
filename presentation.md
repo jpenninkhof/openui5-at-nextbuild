@@ -76,9 +76,9 @@ Note: Jan
 
 # SAP Sports One
 <img data-src="images/sample-sportsone.png">
-Note: Twan
 <!-- .slide: data-state="darker8" data-background="images/bg-sportsone.jpg" -->
 [Action!](https://xs02sdccsademo.hana.ondemand.com)
+Note: Twan
 
 
 
