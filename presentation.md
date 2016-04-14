@@ -5,6 +5,13 @@ Note: Let me take you on a journey back in time to SAPGUI
 
 
 
+# Delightful User Experience
+<img data-src="images/responsive.png">
+<!-- .slide: data-state="darker7" data-background="images/bg-mobile.jpg" -->
+Note: Responsive, works on every device form factor
+
+
+
 #SAPUI5 ➔ OpenUI5
 <img data-src="images/openui5-p.jpg" width="65%">
 <!-- .slide: data-state="darker7" data-background="images/bg-openui5.jpg" -->
@@ -33,12 +40,6 @@ It eases your development with a client-side HTML5 rendering library including a
 
 # Show me some code!
 <!-- .slide: data-state="darker7" data-background="images/bg-code.jpg" -->
-
-
-
-# Responsive
-<img data-src="images/responsive.png">
-<!-- .slide: data-state="darker7" data-background="images/bg-mobile.jpg" -->
 
 
 
