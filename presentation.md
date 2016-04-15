@@ -47,7 +47,7 @@ It eases your development with a client-side HTML5 rendering library including a
 
 
 # Show me some code!
-[Click here for OpenUI5 code](http://jsbin.com/pajajot/1/edit?html,output)
+[Code!](http://jsbin.com/pajajot/4/edit?html,output)
 Note: Jan
 <!-- .slide: data-state="darker7" data-background="images/bg-code.jpg" -->
 
@@ -75,7 +75,7 @@ Note: Jan
 
 
 # SAP Sports One
-<img data-src="images/sample-sportsone.png">
+<img data-src="images/sample-sportsone.png" width="90%">
 <!-- .slide: data-state="darker8" data-background="images/bg-sportsone.jpg" -->
 [Action!](https://xs02sdccsademo.hana.ondemand.com)
 Note: Twan
@@ -103,7 +103,7 @@ After the example: If you build a custom control for a pie-chart missing a slice
 
 
 # UI5 Pacman!
-<img data-src="images/sample-pacman.png" width="50%"><br/>
+<img data-src="images/sample-pacman.png" width="45%"><br/>
 [Play!](https://pacmanp873115trial.hanatrial.ondemand.com/pacman)
 Note: Twan
 
@@ -142,7 +142,7 @@ Note: Jan
 
 
 # WebIDE Demo
-<img data-src="images/webide2.png" width="85%"><br/>
+<img data-src="images/webide2.png" width="75%"><br/>
 [Demo](https://webide-p508741trial.dispatcher.hanatrial.ondemand.com/?hc_reset)
 Note: Jan
 <!-- .slide: data-state="darker5" data-background="images/bg-webide.jpg" -->
